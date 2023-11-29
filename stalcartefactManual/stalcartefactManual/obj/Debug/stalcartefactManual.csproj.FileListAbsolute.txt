@@ -1,0 +1,12 @@
+C:\Users\romah\source\repos\stalcartefactManual\stalcartefactManual\bin\Debug\stalcartefactManual.exe.config
+C:\Users\romah\source\repos\stalcartefactManual\stalcartefactManual\bin\Debug\stalcartefactManual.exe
+C:\Users\romah\source\repos\stalcartefactManual\stalcartefactManual\bin\Debug\stalcartefactManual.pdb
+C:\Users\romah\source\repos\stalcartefactManual\stalcartefactManual\obj\Debug\stalcartefactManual.csproj.AssemblyReference.cache
+C:\Users\romah\source\repos\stalcartefactManual\stalcartefactManual\obj\Debug\stalcartefactManual.csproj.SuggestedBindingRedirects.cache
+C:\Users\romah\source\repos\stalcartefactManual\stalcartefactManual\obj\Debug\stalcartefactManual.Form1.resources
+C:\Users\romah\source\repos\stalcartefactManual\stalcartefactManual\obj\Debug\stalcartefactManual.Properties.Resources.resources
+C:\Users\romah\source\repos\stalcartefactManual\stalcartefactManual\obj\Debug\stalcartefactManual.csproj.GenerateResource.cache
+C:\Users\romah\source\repos\stalcartefactManual\stalcartefactManual\obj\Debug\stalcartefactManual.csproj.CoreCompileInputs.cache
+C:\Users\romah\source\repos\stalcartefactManual\stalcartefactManual\obj\Debug\stalcartefactManual.exe
+C:\Users\romah\source\repos\stalcartefactManual\stalcartefactManual\obj\Debug\stalcartefactManual.pdb
+C:\Users\romah\source\repos\stalcartefactManual\stalcartefactManual\obj\Debug\stalcartefactManual.FormAdd.resources
